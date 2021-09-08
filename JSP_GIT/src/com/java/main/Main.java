@@ -7,6 +7,7 @@ public class Main {
 		System.out.println("main");
 		System.out.println("java");
 		System.out.println("hello");
+		System.out.println("JSP");
 	}
 
 }
